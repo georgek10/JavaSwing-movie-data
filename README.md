@@ -18,7 +18,7 @@ MovieRegistration.java is the main class file to run.
 # Usage
 Access to the app is through the graphical user interface (GUI).
 - Fill the fields with the movie data.  
-  Press **Save** or **File* from the menu bar and **Save** to create a text file **MovieData.txt** containing the entered data in each line.
+  Press **Save** or **File** from the menu bar and **Save** to create a text file **MovieData.txt** containing the entered data in each line.
 - Press **Statistics** or **Info** from the menu bar and **Statistics** to produce a statistics report based on the movie data saved in the file.
-- Press **About** or **Info* from the menu bar and **About** to open the info window with the credits.
+- Press **About** or **Info** from the menu bar and **About** to open the info window with the credits.
 - Press **Close** or **File** from the menu bar and **Close** to terminate the app.
